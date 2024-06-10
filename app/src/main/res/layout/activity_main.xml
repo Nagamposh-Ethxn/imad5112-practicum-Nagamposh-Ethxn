@@ -64,5 +64,6 @@
         app:layout_constraintHorizontal_bias="0.64"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.088" />
+        app:layout_constraintVertical_bias="0.088"
+        app:srcCompat="@drawable/oip" />/>
 </androidx.constraintlayout.widget.ConstraintLayout>
